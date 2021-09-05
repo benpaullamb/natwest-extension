@@ -6,6 +6,8 @@
 
 A Chrome Extension that runs on NatWest login pages. When you press the extension button, a popup appears that allows you to input your PIN and password. When you then press insert, the correct characters are inserted into the boxes on the page.
 
+![Screenshot of the app](./screenshot.png)
+
 ### Built with
 
 - Chrome Extensions
