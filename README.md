@@ -61,6 +61,7 @@ The popup will close and the characters will be inserted.
 ## Roadmap
 
 - [ ] Tidy up webpack config to be able to use Vue
+- [ ] Icon
 
 ## Release History
 
