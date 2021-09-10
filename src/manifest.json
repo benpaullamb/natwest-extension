@@ -2,6 +2,12 @@
   "manifest_version": 3,
   "name": "NatWest Login Util",
   "version": "0.1.0",
+  "icons": {
+    "16": "natwest-icon-16.png",
+    "48": "natwest-icon-48.png",
+    "128": "natwest-icon-128.png",
+    "512": "natwest-icon-512.png"
+  },
   "content_scripts": [
     {
       "matches": ["https://*.natwest.com/*"],
@@ -13,6 +19,6 @@
   },
   "action": {
     "default_title": "Open login utility",
-    "default_popup": "popup/popup.html"
+    "default_popup": "popup.html"
   }
 }

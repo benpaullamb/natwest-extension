@@ -60,10 +60,14 @@ The popup will close and the characters will be inserted.
 
 ## Roadmap
 
-- [ ] Tidy up webpack config to be able to use Vue
-- [ ] Icon
+None
 
 ## Release History
 
+- v0.2.0
+  - Implemented Vue
+  - Added icons
+  - Fixed logo
+  - Fixed PIN capitalisation
 - v0.1.0
   - Initial design
