@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "NatWest Login Util",
+  "name": "NatWest Login Helper",
   "version": "0.1.0",
   "icons": {
     "16": "natwest-icon-16.png",
@@ -18,7 +18,7 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_title": "Open login utility",
+    "default_title": "Open login helper",
     "default_popup": "popup.html"
   }
 }

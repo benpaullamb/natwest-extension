@@ -2,7 +2,7 @@
   <div>
     <header class="header">
       <img class="header__logo" :src="natWestLogo" alt="NatWest logo" />
-      <h1 class="header__title">Login Utility</h1>
+      <h1 class="header__title">Login Helper</h1>
     </header>
 
     <main class="main">
