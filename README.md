@@ -1,6 +1,6 @@
 # NatWest Chrome Extension
 
-![status: in-progress](https://img.shields.io/badge/status-in--progress-green)
+![status: completed](https://img.shields.io/badge/status-completed-success)
 
 ## About this Project
 
